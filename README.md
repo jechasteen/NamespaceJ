@@ -7,4 +7,4 @@ I have no intention of this library being used in actual code (other than my own
 
 * Linked List
     - [Header](linkedlist.h)
-    - [SinglyLinkedList writeup](doc/linkedlist#Singly\ linked\ list)
+    - [SinglyLinkedList writeup](doc/linkedlist#Singly-linked-list)
