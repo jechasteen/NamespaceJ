@@ -1,6 +1,7 @@
-#pragma once
+#ifndef ASSERT_H
+#define ASSERT_H
 
-#include <logstream.h>
+#include <LogStream.h>
 
 namespace J
 {
@@ -19,3 +20,5 @@ void Assert(bool expression, std::string message = "")
 }
 
 }
+
+#endif // Assert.h

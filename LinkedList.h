@@ -1,3 +1,5 @@
+#ifndef LINKEDLIST_H
+#define LINKEDLIST_H
 
 namespace J
 {
@@ -124,3 +126,5 @@ public:
 };
 
 }
+
+#endif // LinkedList.h

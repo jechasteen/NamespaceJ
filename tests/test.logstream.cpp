@@ -1,4 +1,4 @@
-#include <logstream.h>
+#include <LogStream.h>
 
 int main()
 {

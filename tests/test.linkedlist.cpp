@@ -1,5 +1,5 @@
-#include <logstream.h>
-#include <linkedlist.h>
+#include <LogStream.h>
+#include <LinkedList.h>
 #include <iostream>
 
 template <typename T>

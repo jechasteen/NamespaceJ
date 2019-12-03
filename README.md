@@ -6,5 +6,8 @@ I have no intention of this library being used in actual code (other than my own
 ## Files
 
 * Linked List
-    - [Header](linkedlist.h)
+    - [Header](LinkedList.h)
     - [SinglyLinkedList writeup](doc/linkedlist.md#Singly-linked-list)
+* Vector
+    - [Header](Vector.h)
+    - [Vector writeup](doc/vector.md)
